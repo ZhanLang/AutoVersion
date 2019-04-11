@@ -1,2 +1,2 @@
 # AutoVersion
-auto increment c++ project in visual studio.
+auto increment c++ project file version  in visual studio.
